@@ -5,7 +5,6 @@ TEMPO_SERV_HOMEM = 30
 TEMPO_SERV_MULHER = 35
 
 genero = input("Qual o seu gênero: ").lower()
-genero 
 
 if(genero == "h"):
     idade = int(input("Informe a sua idade: "))
