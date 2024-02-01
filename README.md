@@ -11,6 +11,7 @@ Exercícios
 5. Elabore um código em Python que receba os valores dos lados do triângulo e classifique se é um triângulo é equilátero, isósceles ou escaleno.
 Obs_1: 
  - Para que os três segmentos formem um triângulo, existe o que conhecemos como condição de existência, que é a seguinte: a soma de dois lados é sempre maior que o terceiro lado.
+ - 
 Obs_2:
 - O triângulo equilátero possui 3 lados congruentes. 
 - O triângulo isósceles possui 2 lados congruentes.
