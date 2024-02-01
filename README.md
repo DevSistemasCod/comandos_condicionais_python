@@ -9,9 +9,10 @@ Exercícios
 4. Faça um código em Python para ler duas variáveis inteiras, verifique se elas são iguais ou diferentes entre si, posteriormente some as duas e depois multiplique por 2 se o resultado for maior do 10 escreva “RESULTADO FINAL MAIOR DO QUE 10” se menor escreva “RESULTADO FINAL MENOR DO QUE 10” e se igual escreva “RESULTADO FINAL IGUAL A 10”.
 
 5. Elabore um código em Python que receba os valores dos lados do triângulo e classifique se é um triângulo é equilátero, isósceles ou escaleno.
+
 Obs_1: 
  - Para que os três segmentos formem um triângulo, existe o que conhecemos como condição de existência, que é a seguinte: a soma de dois lados é sempre maior que o terceiro lado.
- - 
+
 Obs_2:
 - O triângulo equilátero possui 3 lados congruentes. 
 - O triângulo isósceles possui 2 lados congruentes.
